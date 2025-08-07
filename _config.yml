@@ -1,3 +1,5 @@
 title: Kavin's Homepage
 description: This is my homepage. Where I share my projects and thoughts.
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
