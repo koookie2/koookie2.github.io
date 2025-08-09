@@ -29,7 +29,7 @@ I'm the lead programmer for this wonderful FTC team. We have fun and have partic
 I am part of the varsity crew team in my high school Broadrun. I row at the third position and have been a state finalist in 2024.
 
 ### Cyber Patriots competition
-TBD
+I participate in CyberPatriots, a prestigious national high school cybersecurity competition where teams of four students work together to identify and resolve security vulnerabilities in simulated network environments. This competition has strengthened my technical skills in network security, system administration, and problem-solving under pressure.
 
 ### Computer Science Competititons
 TBD
