@@ -70,12 +70,17 @@ description: "High school student from Virginia focused on machine learning, eth
     margin: 0 0 0.7rem;
   }
 
+<<<<<<< HEAD
   .hero .tagline {
     margin: 0 0 1.2rem;
     color: #e5e7eb;
     max-width: 36rem;
     line-height: 1.6;
   }
+=======
+### Cyber Patriots competition
+I participate in CyberPatriots, a prestigious national high school cybersecurity competition where teams of four students work together to identify and resolve security vulnerabilities in simulated network environments. This competition has strengthened my technical skills in network security, system administration, and problem-solving under pressure.
+>>>>>>> 7658d4d2f9339d8ca45cb5e5edd6235696d356b7
 
   .hero-meta {
     display: flex;
