@@ -6,7 +6,7 @@ description: Cognitive Health Screening Tool
 ## Support
 Welcome to the support page for **CogniQuest**.
 If you are experiencing issues, have feature requests, or just want to say hello, please contact us at:
-📧 **[INSERT YOUR EMAIL HERE]**
+📧 **kavinjgodwin+cogniquest@gmail.com**
 We aim to respond to all inquiries within 24-48 hours.
 ---
 ## Frequently Asked Questions (FAQ)
@@ -17,9 +17,7 @@ based on standard cognitive assessment protocols.
 **Yes.** All data is stored locally on your device. We do not collect, transmit, or store any of your personal health
 information on our servers.
 ### How do I interpret my score?
-The score provides a general indication of cognitive function.
-- **26-30**: Normal
-- **< 26**: Potential cognitive impairment (Consult a healthcare professional)
+Please refer to the SLUMS website https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/assessment-tools/mental-status-exam.php for interpretation guidelines.
 
 *Disclaimer: CogniQuest is a screening tool, not a diagnostic device. Please consult a doctor for medical advice.*
 
